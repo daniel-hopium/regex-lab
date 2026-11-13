@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32">
+  <!-- Schrägstriche mit Stern im Linienstil des UI-Atlas. Erzeugt von tools/make_icons.py. -->
+  <rect width="32" height="32" rx="7" fill="#0F1418"/>
+  <path d="M10 6.5 L6 25.5" fill="none" stroke="#C2D6EA" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" stroke-opacity="0.45"/>
+  <path d="M26 6.5 L22 25.5" fill="none" stroke="#C2D6EA" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" stroke-opacity="0.45"/>
+  <path d="M16 9.5 L16 18.5" fill="none" stroke="#C2D6EA" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M12.1 11.75 L19.9 16.25" fill="none" stroke="#C2D6EA" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M12.1 16.25 L19.9 11.75" fill="none" stroke="#C2D6EA" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="16" cy="23.5" r="1.9" fill="#E0C48A"/>
+</svg>
